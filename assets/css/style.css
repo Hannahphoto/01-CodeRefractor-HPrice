@@ -52,16 +52,18 @@ p {
 }
 
 .hero {
-    height: 800px;
+    height: 900px; 
     width: 100%;
     margin-bottom: 25px;
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
+    contain: content;
+    /* changed height to fix image distortion; */
 }
 
 /* *Organized order* */
-
+    
 .content {
     width: 75%;
     display: inline-block;
