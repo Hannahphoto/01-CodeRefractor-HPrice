@@ -9,6 +9,7 @@ It is done when I find and fix acceptibility standards for html.
 It is done when the html elements follow structure independent of styling and positioning.
 It is done when html elements are organized, clean and consise.
 It is done when heading attributes fall in sequencial order.
+It is done when css file is clean and organized.
 It is done when the title is consise and descriptive.
 
 
