@@ -129,24 +129,29 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
     text-align: center;
-    /* "added to "text align center" "Lead Generation","Brand Awareness" & "Cost Management"  */ 
+    /* "added to "text align center" "Lead Generation","Brand Awareness" & "Cost Management"  */
+    margin-bottom: 32px; 
+    color: #ffffff;
 }
+
 
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;    
 }
+/* consilidated benefit brand and cost into benefit lead.
+/* .benefit-brand { */
+    /* margin-bottom: 32px; */
+    /* color: #ffffff; */
+/* } */
+/*  */
+/* .benefit-cost { */
+    /* margin-bottom: 32px; */
+    /* color: #ffffff; */
+/* } */
 
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
 
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
+/*  */
 /* .benefit-lead h3 { */
     /* margin-bottom: 10px; */
     /* text-align: center; */
