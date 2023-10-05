@@ -21,4 +21,5 @@ Deplyed Site - https://hannahphoto.github.io/01-CodeRefractor-HPrice/
 (./assests/images/01-TopPage, 02-MiddlePAge, 03-Bottom)
 
 
-
+**Notes**
+I had help once with a TA (unfortunately forget their name, it was the first day we learned Peterson wasnt teaching anymore), they helped me understand a bit more of seeing the details inthe html to get it to deploy. From there i was able to understand more what i was supposed to do and went back and edited the css file. For the  README, i understand now to jot down notes of my progress, help and resources. Everything is all clear now (smiley face). 
